@@ -22,3 +22,6 @@ An agent capable of selecting an appropriate LLM for a given use case
 - Bard
 - Palm
 - Llama
+
+# Articles
+Examining the performance of GPT vs GPT 4 on MLE (medical licensing examination), https://www.nature.com/articles/s41598-023-43436-9
