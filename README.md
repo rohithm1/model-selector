@@ -24,7 +24,7 @@ An agent capable of selecting an appropriate LLM for a given use case
 - Llama
 
 # Articles
-- GPT 4
-Examining the performance of GPT vs GPT 4 on MLE (medical licensing examination), https://www.nature.com/articles/s41598-023-43436-9
-How is GPT's behavior changing over time, https://arxiv.org/abs/2307.09009
-Bar exam performance, https://arxiv.org/abs/2303.08774
+GPT 4
+- Examining the performance of GPT vs GPT 4 on MLE (medical licensing examination), https://www.nature.com/articles/s41598-023-43436-9
+- How is GPT's behavior changing over time, https://arxiv.org/abs/2307.09009
+- Bar exam performance, https://arxiv.org/abs/2303.08774
